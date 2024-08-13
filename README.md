@@ -3,7 +3,7 @@
 - [ ] **Landing Page**: Buat landing page untuk startup fiktif.
 - [x] **Personal Portfolio**: Buat situs portofolio pribadi. [Here](#portofolio)
 - [x] **Blog**: Buat blog sederhana dengan halaman posting. [Here](#blog)
-- [x] **To-Do List**: Buat aplikasi to-do list.\*\*\*\* [Here](#todo-list)
+- [x] **To-Do List**: Buat aplikasi to-do list. [Here](#to-do)
 - [ ] **Weather App**: Buat aplikasi cuaca menggunakan API cuaca.
 - [ ] **E-commerce Product Page**: Buat halaman produk e-commerce.
 - [ ] **Calculator**: Buat aplikasi kalkulator.
@@ -117,7 +117,7 @@
 
 ![blog.dairew.my.id](doc/screencapture-blog-dairew-my-id-2024-08-06-12_44_08.png)
 
-## To-Do List:
+## To-Do:
 
 [dai-re/todo-app-pure](https://github.com/dai-re/todo-app-pure)
 
