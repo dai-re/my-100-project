@@ -1,9 +1,9 @@
 # 100 Day Website Project
 
-- [ ] **Landing Page**: Buat landing page untuk startup fiktif. 
+- [ ] **Landing Page**: Buat landing page untuk startup fiktif.
 - [x] **Personal Portfolio**: Buat situs portofolio pribadi. [Here](#portofolio)
 - [x] **Blog**: Buat blog sederhana dengan halaman posting. [Here](#blog)
-- [ ] **To-Do List**: Buat aplikasi to-do list.****
+- [x] **To-Do List**: Buat aplikasi to-do list.\*\*\*\* [Here](#todo-list)
 - [ ] **Weather App**: Buat aplikasi cuaca menggunakan API cuaca.
 - [ ] **E-commerce Product Page**: Buat halaman produk e-commerce.
 - [ ] **Calculator**: Buat aplikasi kalkulator.
@@ -116,3 +116,9 @@
 [blog.dairew.my.id](https://blog.dairew.my.id)
 
 ![blog.dairew.my.id](doc/screencapture-blog-dairew-my-id-2024-08-06-12_44_08.png)
+
+## To-Do List:
+
+[dai-re/todo-app-pure](https://github.com/dai-re/todo-app-pure)
+
+![todo-app-pure](doc/screencapture-127-0-0-1-3000-index-html-2024-08-13-17_11_47.png)
