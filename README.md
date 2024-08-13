@@ -119,6 +119,6 @@
 
 ## To-Do:
 
-[dai-re/todo-app-pure](https://github.com/dai-re/todo-app-pure)
+[dai-re/todo-app-pure](https://dai-re.github.io/todo-app-pure/)
 
 ![todo-app-pure](doc/screencapture-127-0-0-1-3000-index-html-2024-08-13-17_11_47.png)
