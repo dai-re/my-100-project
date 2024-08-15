@@ -4,7 +4,7 @@
 - [x] **Personal Portfolio**: Buat situs portofolio pribadi. [Here](#portofolio)
 - [x] **Blog**: Buat blog sederhana dengan halaman posting. [Here](#blog)
 - [x] **To-Do List**: Buat aplikasi to-do list. [Here](#to-do)
-- [ ] **Weather App**: Buat aplikasi cuaca menggunakan API cuaca.
+- [x] **Weather App**: Buat aplikasi cuaca menggunakan API cuaca. [Here](#weather)
 - [ ] **E-commerce Product Page**: Buat halaman produk e-commerce.
 - [ ] **Calculator**: Buat aplikasi kalkulator.
 - [ ] **Quiz App**: Buat aplikasi kuis interaktif.
@@ -122,3 +122,9 @@
 [dai-re/todo-app-pure](https://dai-re.github.io/todo-app-pure/)
 
 ![todo-app-pure](doc/screencapture-127-0-0-1-3000-index-html-2024-08-13-17_11_47.png)
+
+## Weather:
+
+[dai-re/weather-app-pure](https://dai-re.github.io/weather/)
+
+![weather](/doc/127.0.0.1!3000!index.html-1080x1080.png)
