@@ -5,7 +5,7 @@
 - [x] **Blog**: Buat blog sederhana dengan halaman posting. [Here](#blog)
 - [x] **To-Do List**: Buat aplikasi to-do list. [Here](#to-do)
 - [x] **Weather App**: Buat aplikasi cuaca menggunakan API cuaca. [Here](#weather)
-- [ ] **E-commerce Product Page**: Buat halaman produk e-commerce.
+- [x] **E-commerce Product Page**: Buat halaman produk e-commerce. [Here](#e-commerce)
 - [ ] **Calculator**: Buat aplikasi kalkulator.
 - [ ] **Quiz App**: Buat aplikasi kuis interaktif.
 - [ ] **Recipe App**: Buat aplikasi resep masakan.
@@ -128,3 +128,11 @@
 [dai-re/weather-app-pure](https://dai-re.github.io/weather/)
 
 ![weather](/doc/127.0.0.1!3000!index.html-1080x1080.png)
+
+## E-commerce:
+
+[dai-re/product-page](https://product-page-fffli21rk-daires-projects.vercel.app/)
+
+![product-page](/doc/screencapture-product-page-fffli21rk-daires-projects-vercel-app-2024-08-19-11_03_04.png)
+
+![product-page](/doc/screencapture-product-page-fffli21rk-daires-projects-vercel-app-about-product-2024-08-19-11_03_29.png)
